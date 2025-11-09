@@ -1,0 +1,6 @@
+@PuppeteerDemo_HostAddress = http://localhost:5248
+
+GET {{PuppeteerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
